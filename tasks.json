@@ -1,0 +1,22 @@
+[
+  {
+    "ID": "b6a8d538-8f2c-439a-9bed-de1d661e986a",
+    "Text": "create a GUI todo list app by Golang",
+    "Completed": true
+  },
+  {
+    "ID": "b6a8d538-8f2c-439a-9bed-de1d661e886a",
+    "Text": "write the article about using fyne.io",
+    "Completed": false
+  },
+  {
+    "ID": "b6a8d538-8f2c-439a-9bed-de1d661e781a",
+    "Text": "relax and go for a walk",
+    "Completed": false
+  },
+  {
+    "ID": "b6a8d538-8f2c-439a-9bed-de1d661e786a",
+    "Text": "check email",
+    "Completed": false
+  }
+]

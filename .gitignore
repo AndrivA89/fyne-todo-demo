@@ -1,0 +1,30 @@
+*.exe
+*.dll
+*.so
+*.dylib
+*.test
+*.out
+
+build/
+dist/
+tmp/
+*.log
+*.cache
+
+*.mod
+*.sum
+vendor/
+
+# Fyne resources
+fyne-app
+*.fyne
+
+clusters.json
+
+# IDE
+.idea/
+.vscode/
+*.iml
+
+.DS_Store
+Thumbs.db
